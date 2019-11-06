@@ -1,2 +1,2 @@
 # Multi-channel-Queue
-A simulation system for multi queue channel
+A C# program that represent a simulation system for multi queue channel
